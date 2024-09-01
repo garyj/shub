@@ -7,7 +7,6 @@ from typing import AnyStr, Optional, Union
 
 # Not used in code but needed in runtime, don't remove!
 import setuptools
-import setuptools.msvc  # noqa
 
 import click
 import toml
